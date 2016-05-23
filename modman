@@ -8,3 +8,4 @@ app/etc/modules/Inchoo_PHP7.xml                     app/etc/modules/Inchoo_PHP7.
 app/code/local/Mage/Core/Model/File/Uploader.php    app/code/local/Mage/Core/Model/File/Uploader.php
 app/code/local/Mage/Core/Model/Resource/Session.php app/code/local/Mage/Core/Model/Resource/Session.php
 app/code/local/Mage/Core/Model/Layout.php           app/code/local/Mage/Core/Model/Layout.php
+app/code/local/Mage/Admin/Model/Session.php         app/code/local/Mage/Admin/Model/Session.php
