@@ -13,3 +13,4 @@ app/code/local/Mage/ImportExport/Model/Export/Entity/Customer.php app/code/local
 app/code/local/Mage/ImportExport/Model/Export/Entity/Product/Type/Abstract.php app/code/local/Mage/ImportExport/Model/Export/Entity/Product/Type/Abstract.php
 app/code/local/Mage/ImportExport/Model/Import/Uploader.php app/code/local/Mage/ImportExport/Model/Import/Uploader.php
 app/code/local/Enterprise/TargetRule/Model/Resource/Index.php app/code/local/Enterprise/TargetRule/Model/Resource/Index.php
+app/code/local/Mage/Customer/Model/Session.php app/code/local/Mage/Customer/Model/Session.php
