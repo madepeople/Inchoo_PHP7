@@ -1,5 +1,6 @@
 # app/etc
-app/etc/modules/Inchoo_PHP7.xml                     app/etc/modules/Inchoo_PHP7.xml
+app/etc/modules/Inchoo_PHP7.xml app/etc/modules/Inchoo_PHP7.xml
+app/code/local/Inchoo/PHP7/etc/config.xml app/code/local/Inchoo/PHP7/etc/config.xml
 
 # mage/core
 app/code/local/Mage/Admin/Model/Session.php app/code/local/Mage/Admin/Model/Session.php
